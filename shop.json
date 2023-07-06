@@ -1,7 +1,4 @@
-<!doctype html>
-<html>
-    <body>
-        {
+{
 "data":[
     {
       "id" : 0,
@@ -101,5 +98,3 @@
     }
 ]
 }
-    </body>
-</html>
