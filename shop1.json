@@ -2,66 +2,66 @@
    {
       "id" : 8,
       "source":"크루디",
-      "title" : "Grey Yordan",
-      "content" : "Born in the States",
+      "title" : "그물 니트",
+      "content" : "인기만점 그물망 헤짐 니트",
       "img":"https://cf.product-image.s.zigzag.kr/original/c/11/942/272/119422721-8258930302753739055.jpeg?width=1080&height=1080&quality=80&format=jpeg",
-      "price" : 130000
+      "price" : "13,500"
     },
     {
       "id" : 9,
       "source":"키튼",
-      "title" : "Grey Yordan",
-      "content" : "Born in the States",
+      "title" : "스트랩 브라렛",
+      "content" : "끈 스트랩 브라렛 나시",
       "img":"https://cf.product-image.s.zigzag.kr/original/d/2022/5/7/15576_202205070050080599_65675.jpeg?width=1080&height=1080&quality=80&format=jpeg",
-      "price" : 130000
+      "price" : "17,900"
     },
     {
       "id" : 10,
       "source":"sixty-percent",
-      "title" : "Grey Yordan",
-      "content" : "Born in the States",
+      "title" : "포켓 바지",
+      "content" : "부츠컷 포켓 검정 팬츠",
       "img":"https://cdn.shopify.com/s/files/1/0066/0360/4086/products/3e76e8f19cd448da8715c546f5acb758.jpg?v=1681354254",
-      "price" : 130000
+      "price" : "52,000"
     },
     {
       "id" : 11,
       "source":"코디북",
-      "title" : "Grey Yordan",
-      "content" : "Born in the States",
+      "title" : "미니백",
+      "content" : "강추 은색 미니백",
       "img":"https://i0.codibook.net/files/1980112015607/9a7328d0a9cd9c4d/1092456437.jpg",
-      "price" : 130000
+      "price" : "23,500"
     },
     {
       "id" : 12,
       "source":"he.nique",
-      "title" : "Grey Yordan",
-      "content" : "Born in the States",
+      "title" : "벨벳 원피스",
+      "content" : "파티룩 연말룩 팔 시스루 벨벳 원피스",
       "img":"https://henique.co.kr/web/product/big/202112/a679fef53b3f90b202cc7ac7f82dd67b.jpg",
-      "price" : 130000
+      "price" : "28,000"
     },
     {
       "id" : 13,
       "source":"세컨드세컨",
-      "title" : "Grey Yordan",
-      "content" : "Born in the States",
+      "title" : "배색 블라우스",
+      "content" : "트랜비 배색 탑 블라우스",
       "img":"https://secondesecon.com/product/2023/0525_hl_c05/09.jpg",
-      "price" : 130000
+      "price" : "45,000"
     },
     {
       "id" : 14,
       "source":"sweatnhoody",
-      "title" : "Grey Yordan",
-      "content" : "Born in the States",
+      "title" : "빈티지 모자",
+      "content" : "1+1 행사중 2개 가격 파격세일 빈티지모자",
       "img":"https://m.sweatnhoody.kr/web/product/big/202104/2e25a5e0521d5ca93ca1233de220a57d.jpg",
-      "price" : 130000
+      "price" : "15,600"
     },
     {
       "id" : 15,
       "source":"he.nique",
-      "title" : "Grey Yordan",
-      "content" : "Born in the States",
+      "title" : "연청 반바지",
+      "content" : "최저가 스판 하이웨스트 숏팬츠",
       "img":"https://henique.co.kr/web/product/big/20200416/0f0c335c16931f0e6a0d9737995bd39f.jpg",
-      "price" : 130000
+      "price" : "17,000"
     }  
 ]
 
