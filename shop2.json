@@ -50,16 +50,16 @@
     {
       "id" : 22,
       "source":"ssg",
-      "title" : "빈티지 블라우스",
-      "content" : "빈티지 리본 스트랩 블라우스",
+      "title" : "애플워치 스트랩",
+      "content" : "애플워치 se/se2 시리즈 메탈 스트랩",
       "img":"https://sitem.ssgcdn.com/62/92/88/item/1000519889262_i1_750.jpg",
       "price" : "21,000"
     },
     {
       "id" : 23,
       "source":"ssg",
-      "title" : "워싱 면티",
-      "content" : "데님 워싱 빈티지 질좋은 티셔츠",
+      "title" : "리본 블라우스",
+      "content" : "빈티지 리본 스트랩 블라우스",
       "img":"https://sitem.ssgcdn.com/87/97/12/item/1000548129787_i1_500.jpg",
       "price" : "39,000"
     }  
